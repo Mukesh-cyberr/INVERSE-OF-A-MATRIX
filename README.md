@@ -25,7 +25,7 @@ print(b)
 
 
 ## Output:
-<img width="1696" height="597" alt="MFA Exp-3" src="https://github.com/user-attachments/assets/2af8e916-a26f-4efd-b999-5c392ab25fdd" />
+<img width="1920" height="1080" alt="MFA EXP--3" src="https://github.com/user-attachments/assets/59dd80af-da2d-44a8-8c1d-cc9d3b949556" />
 
 
 ## Result:
